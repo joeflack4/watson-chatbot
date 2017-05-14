@@ -1,0 +1,9 @@
+appdirs==1.4.3
+cookies==2.2.1
+packaging==16.8
+pyparsing==2.2.0
+pysolr==3.6.0
+requests==2.14.2
+responses==0.5.1
+six==1.10.0
+watson-developer-cloud==0.25.2
